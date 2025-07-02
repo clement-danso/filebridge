@@ -1,0 +1,61 @@
+/* Login form styling */
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-input {
+    margin-bottom: 15px;
+}
+
+.login-button {
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Dashboard styling */
+.content-wrapper {
+    padding: 20px;
+}
+
+.box {
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+
+/* File upload area */
+.file-input-container {
+    border: 2px dashed #ddd;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+/* Status messages */
+.status-message {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 3px;
+}
+
+.status-success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+.status-error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+} 
