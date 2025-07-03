@@ -1,6 +1,6 @@
 # FileBridge
 
-FileBridge is a lightweight R Shiny-based middleware application designed to bridge Ghana's national health information system (DHIMS2) and the internal DHIS2 platform for the USAID Q4H Activity. It streamlines the process of uploading, mapping, and transferring health data between these systems, ensuring data integrity and completeness for performance monitoring.
+FileBridge is a lightweight R Shiny-based middleware application designed to bridge Ghana's national health information system (DHIMS2) and the internal DHIS2 platform for the USAID Q4H Activity. It streamlines the process of uploading data(csv, excel) from the DHIMS2 Platform, mapping data points from the file to the project's internal DHIS2 Platform, and transferring data between these systems, ensuring data integrity and completeness for performance monitoring.
 
 ## Features
 - **Secure File Upload:** Upload CSV/Excel files exported from DHIMS2.
