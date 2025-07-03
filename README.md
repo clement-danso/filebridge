@@ -60,11 +60,4 @@ shiny::runApp()
 - Role-based authentication restricts access to authorized users.
 - Data validation and error feedback ensure only high-quality data is submitted.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE)
-
-## Contact
-For questions or support, please contact the USAID Q4H Activity data team. 
